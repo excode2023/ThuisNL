@@ -5,7 +5,7 @@ namespace ThuisNL.Core.Entities;
 public class User
 {
     public Guid Id { get; private set; }
-    public Emails Email { get; private set; } = null!;           // EF lo rellenará
+    public Emails Email { get; private set; } = null!;      
     public string FirstName { get; private set; } = string.Empty;
     public string LastName { get; private set; } = string.Empty;
     public string DisplayName { get; private set; } = string.Empty;

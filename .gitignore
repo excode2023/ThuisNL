@@ -22,3 +22,8 @@ packages/
 
 # Rider IDE
 .idea/
+
+# Environment variables
+.env
+.env.*
+appsettings.Development.json
