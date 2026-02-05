@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gmD3d6lBk5Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DevExavier\\Desktop\\GYM\\Proyectovs2026\\ThuisNL\\ThuisNL.API\\ThuisNL.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DevExavier\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\DevExavier\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
